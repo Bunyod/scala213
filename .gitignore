@@ -1,0 +1,9 @@
+.history
+.idea
+*.iml
+out
+*.ipr
+*.iws
+target
+.sonarwork
+*.log
